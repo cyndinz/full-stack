@@ -1,0 +1,2 @@
+A button changes the page color. Events and functions combine to give JavaScript the ability to create interactive experiences. show <br><br>
+***Check out the live page by clicking*** https://cyndinz.github.io/burger-restaurant/
